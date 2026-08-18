@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.3] - 2026-08-18
+
+### Security
+
+Added a scheduled and pull-request CodeQL workflow for JavaScript and TypeScript security plus quality analysis. The initial analysis completed successfully on the public default branch.
+
 ## [1.0.2] - 2026-08-18
 
 ### Security
