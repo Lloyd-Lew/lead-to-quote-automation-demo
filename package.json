@@ -1,6 +1,6 @@
 {
   "name": "companyconnect-lead-to-quote-automation-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Client-safe TypeScript API demonstrator for validated lead qualification, next-action recommendations, quote briefs, and audit trails.",
   "type": "module",
