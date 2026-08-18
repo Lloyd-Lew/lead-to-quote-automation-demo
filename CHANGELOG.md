@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.2] - 2026-08-18
+
+### Security
+
+Updated the direct linting and test tooling to patched releases after the full dependency audit identified a critical development-tool vulnerability. The final full and production dependency audits report zero vulnerabilities.
+
 ## [1.0.1] - 2026-08-18
 
 ### Changed
