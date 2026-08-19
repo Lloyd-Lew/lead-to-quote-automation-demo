@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.4] - 2026-08-19
+
+### Changed
+
+Added a manual `workflow_dispatch` trigger to the existing CI quality gate. Maintainers can now re-run the same protected default-branch validation on demand after reviewing historical workflow outcomes, without bypassing or weakening the push and pull-request checks.
+
+Updated Supertest to the maintained `7.1.3` release, removing the remaining local test-tool deprecation warning without changing the demonstrator’s runtime behavior.
+
 ## [1.0.3] - 2026-08-18
 
 ### Security

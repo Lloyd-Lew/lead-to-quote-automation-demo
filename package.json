@@ -1,6 +1,6 @@
 {
   "name": "companyconnect-lead-to-quote-automation-demo",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": true,
   "description": "Client-safe TypeScript API demonstrator for validated lead qualification, next-action recommendations, quote briefs, and audit trails.",
   "type": "module",
@@ -27,7 +27,7 @@
     "eslint": "9.39.5",
     "globals": "15.15.0",
     "prettier": "3.5.3",
-    "supertest": "7.1.0",
+    "supertest": "7.1.3",
     "tsx": "4.19.3",
     "typescript": "5.8.2",
     "typescript-eslint": "8.26.0",
