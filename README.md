@@ -83,7 +83,7 @@ The CRM adapter is intentionally non-persistent and resets when the service rest
 
 ## Need something similar?
 
-CompanyConnect.Tech designs custom CRM, automation, integration, dashboard, and AI-enabled operations systems around a business’s actual handoffs, controls, and measures. For business proof, see the [CompanyConnect Systems Portfolio](https://github.com/Lloyd-Lew/companyconnect-systems-portfolio). To discuss an operational bottleneck, use the [Operational Bottleneck Brief](https://github.com/Lloyd-Lew/companyconnect-systems-portfolio/blob/main/templates/operational-bottleneck-brief.md) or [book a strategy call](https://calendar.app.google/4SoivAXFkCpeQLVw5).
+CompanyConnect.Tech designs custom CRM, [workflow automation](https://companyconnect.tech/workflow-automation/), integration, dashboard, and AI-enabled operations systems around a business’s actual handoffs, controls, and measures. For business proof, see the [CompanyConnect Systems Portfolio](https://github.com/Lloyd-Lew/companyconnect-systems-portfolio). To discuss an operational bottleneck, use the [Operational Bottleneck Brief](https://github.com/Lloyd-Lew/companyconnect-systems-portfolio/blob/main/templates/operational-bottleneck-brief.md) or [book a strategy call](https://calendar.app.google/4SoivAXFkCpeQLVw5).
 
 ## Contributing and licence
 
